@@ -1,2 +1,1 @@
-omicroniano,2.23,50.4,25,False,universo-A-554
 Kitsune,1.9,30.7,21,False,universo-B-32
