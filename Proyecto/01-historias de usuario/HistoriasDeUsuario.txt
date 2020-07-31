@@ -2,7 +2,7 @@ Historias de usuario Python
 
 Link Historias de usuario:
 
-https://github.com/2020-A-Moviles-GR1/mov-reinoso-alvarado-washington-paul/issues
+https://github.com/2020-A-Python-GR1/py-reinoso-paul/issues
 
 
 *Nota: Las puntuaciones de cada historia de usuario se encuentran 
