@@ -1,0 +1,9 @@
+Historias de usuario Python
+
+Link Historias de usuario:
+
+https://github.com/2020-A-Moviles-GR1/mov-reinoso-alvarado-washington-paul/issues
+
+
+*Nota: Las puntuaciones de cada historia de usuario se encuentran 
+en la parte inferior de cada historia en la sección de comentarios.
