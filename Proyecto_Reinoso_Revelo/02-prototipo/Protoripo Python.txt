@@ -1,0 +1,14 @@
+Prototipo Python
+
+
+Link de edición: A través de este link puede visualizar el trabajo realizado
+
+https://www.figma.com/file/c0gQBNrlqXDLshz0sJYfu8/Proyecto-Python?node-id=25%3A34
+
+
+Link de visualización: A través de este link puede visualizar el prototipo de navegación
+
+https://www.figma.com/proto/c0gQBNrlqXDLshz0sJYfu8/Proyecto-Python?node-id=9%3A436&viewport=1533%2C718%2C0.3864099979400635&scaling=scale-down
+
+Nota: Existen pantallas donde se debe deslizar con el mouse para visualizar todas
+las opciones de botones disponibles para realizar la acción.
