@@ -49,6 +49,7 @@ writer.save()
 # Formato Condicional #
 path_excel_colores ="C://Users//Paulr//Documents//Git-Kraken//py-reinoso-paul//03-pandas//data//artwork_data_colores.xls"
 # artwork_data_colores.xlsx
+
 writer = pd.ExcelWriter(path_excel_colores, engine='xlsxwriter')
 # Series
 
@@ -97,4 +98,6 @@ with sqlite3.connect("bdd_artist.bdd") as conexion:
 sub_df.to_json('artistas.json')
 
 sub_df.to_json('artistas_tabla.json', orient = 'table')
+
+
 
