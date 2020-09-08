@@ -64,12 +64,17 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'item_fybeca.pipelines.ItemFybecaPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    # 'carpeta.archivo.clase: orden'
+    # Menor MAYOR IMPORTANCIA
+    # Mayor MENOR IMPORTANCIA
+    # 100 > 200 > 300 > 400 > 500 
+    'item_fybeca.pipelines.TransformarTituloAMinusculas': 100, # Primero
+    'item_fybeca.pipelines.SoloCapsulasPipeline': 200, # Segundo
+}
 
-FEED_FORMAT='json'
-FEED_URL='tmp/productos-fybeca.json'
+FEED_FORMAT = 'json'
+FEED_URI = 'tmp/productos-fybeca.json'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
