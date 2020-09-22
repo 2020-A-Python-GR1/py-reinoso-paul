@@ -8,7 +8,7 @@ class SerieSpider(CrawlSpider):
     name = 'arania_juego_csv'
 
     start_urls = [
-        'https://www.nintenderos.com/juegos/'    
+        'https://www.nintenderos.com/juegos/'
     ]
 
     for i in range(1, 29):
